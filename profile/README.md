@@ -1,12 +1,37 @@
-## Hi there 👋
+# Cajeer
 
-<!--
+**Independent systems. Minimal by design.**
 
-**Here are some ideas to get you started:**
+Cajeer Team builds focused digital systems with an obsession for clarity, control, and long-term structure.  
+Cajeer 404 is the public edge of the project — releases, field notes, experiments, and the community around the work.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We prefer signal over scale.  
+Few products. Strict standards. No noise.
+
+## Core principles
+
+- **Autonomy over dependency**
+- **Precision over volume**
+- **Depth over trend**
+- **Structure over hype**
+
+## What lives here
+
+- **Products** — tools and systems built to stay useful
+- **Documentation** — direct, structured, and intentional
+- **Releases** — clear change, no theatrical packaging
+- **Community** — for people who build quietly and ship precisely
+
+## Open spaces
+
+- [Website](https://cajeer.ru/)
+- [Docs](https://docs.cajeer.ru/)
+- [Telegram](https://t.me/cajeer)
+- [Discord](https://discord.gg/E52DxpShQy)
+
+## Position
+
+Cajeer Team is the official structure.  
+Cajeer 404 is the public signal.
+
+Not for everyone. On purpose.
