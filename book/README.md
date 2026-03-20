@@ -1,38 +1,30 @@
+![Cajeer](assets/cajeer-cover.png)
+
 # Cajeer Docs
 
-**Independent systems. Minimal by design.**
+> **Open-source systems. Quiet by design.**
 
-Welcome to the official documentation of **Cajeer Team**.
+Welcome to the official documentation surface of **Cajeer Team & Cajeer 404**.
 
-**Cajeer** is a focused ecosystem of products, tools, and infrastructure built around clarity, control, and long-term maintainability.  
-**Cajeer 404** is the public layer — releases, field notes, experiments, and community around the work.
+Cajeer builds open-source software, developer tools, and focused infrastructure around clarity, control, and long-term maintainability.  
+Cajeer 404 is the public edge — releases, notes, experiments, and community signal around the work.
 
-This documentation is direct by design.
+This documentation is intentionally restrained.
 
-No excess. No marketing filler. No ornamental complexity.  
-Only what matters: structure, usage, boundaries, and decisions.
+No filler. No ornamental marketing. No vague promises.  
+Only what matters: structure, usage, boundaries, decisions, and release context.
 
 ## What you will find here
 
-- Product overviews
-- Getting started guides
-- Core principles
-- Architecture and concepts
-- API references and examples
-- Release notes and migration paths
+- product and project direction
+- principles and operating posture
+- platform and community structure
+- brand and identity guidance
+- GitBook setup notes for a consistent public surface
 
-## Principles
+## Core signal
 
-### Autonomy
-Build systems that can stand on their own.
+- **Primary:** Open-source systems. Quiet by design.
+- **Secondary:** Built with discipline. Shipped without theater.
 
-### Minimalism
-Keep the interface clean. Keep the logic sharp.
-
-### Standards
-Fewer promises. Higher threshold.
-
-### Longevity
-What ships should remain usable, understandable, and stable.
-
-If it is documented here, it is intentional.
+If it is documented here, it should remain readable and useful.
