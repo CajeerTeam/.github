@@ -1,37 +1,40 @@
+![Cajeer](../book/assets/cajeer-cover.png)
+
 # Cajeer
 
-**Independent systems. Minimal by design.**
+> **Open-source systems. Quiet by design.**
 
-Cajeer Team builds focused digital systems with an obsession for clarity, control, and long-term structure.  
-Cajeer 404 is the public edge of the project — releases, field notes, experiments, and the community around the work.
+Cajeer Team builds open-source software, developer tools, and focused infrastructure.  
+Cajeer 404 is the public edge — releases, notes, experiments, and community around the work.
 
-We prefer signal over scale.  
-Few products. Strict standards. No noise.
+Minimal surface. Strong standards. No branding theater.
 
-## Core principles
+## What defines the work
 
-- **Autonomy over dependency**
-- **Precision over volume**
-- **Depth over trend**
-- **Structure over hype**
+- **Autonomy** over dependency
+- **Precision** over noise
+- **Restraint** over excess
+- **Durability** over short-lived hype
 
-## What lives here
+## Current public direction
 
-- **Products** — tools and systems built to stay useful
-- **Documentation** — direct, structured, and intentional
-- **Releases** — clear change, no theatrical packaging
-- **Community** — for people who build quietly and ship precisely
+- **Developer tools**
+- **Safe runtime logic**
+- **Documentation systems**
+- **Community infrastructure**
 
-## Open spaces
+## Open channels
 
-- [Website](https://cajeer.ru/)
-- [Docs](https://docs.cajeer.ru/)
+- [Website](https://cajeer.com/)
+- [Docs](https://docs.cajeer.com/)
+- [GitHub](https://github.com/CajeerTeam)
 - [Telegram](https://t.me/cajeer)
-- [Discord](https://discord.gg/E52DxpShQy)
+- [Telegram Chat](https://t.me/cjrmeet)
+- [Discord](https://discord.gg/nsTKEUh2DB)
 
-## Position
+## Structure
 
-Cajeer Team is the official structure.  
-Cajeer 404 is the public signal.
+**Cajeer Team** is the official contour: products, standards, architecture, direction.  
+**Cajeer 404** is the public edge: releases, notes, experiments, and conversation.
 
-Not for everyone. On purpose.
+Built with discipline. Shipped without theater.
