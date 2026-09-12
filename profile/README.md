@@ -2,7 +2,7 @@
 
 **Открытое программное обеспечение для разработчиков, администраторов и команд.**
 
-[Сайт](https://cajeer.ru/) · [GitHub](https://github.com/CajeerTeam) · [GitFlic](https://gitflic.ru/team/cajeerteam) · [Telegram](https://t.me/cajeer) · [Discord](https://discord.gg/QmJ2NDkzYv)
+[Сайт](https://cajeer.ru/) · [GitHub](https://github.com/CajeerTeam) · [Telegram](https://t.me/cajeer) · [Discord](https://discord.gg/QmJ2NDkzYv)
 
 Cajeer — некоммерческая инициатива в сфере открытого программного обеспечения. Мы развиваем программные платформы, серверные инструменты, панели управления и инфраструктурные решения.
 
@@ -69,7 +69,6 @@ Cajeer — некоммерческая инициатива в сфере от�
 | --- | --- |
 | **Официальный сайт** | [cajeer.ru](https://cajeer.ru/) |
 | **GitHub** | [CajeerTeam](https://github.com/CajeerTeam) |
-| **GitFlic** | [CajeerTeam](https://gitflic.ru/team/cajeerteam) |
 | **Discord** | [Сообщество Cajeer](https://discord.gg/QmJ2NDkzYv) |
 | **Telegram** | [@cajeer](https://t.me/cajeer) |
 | **VK — Cajeer** | [vk.ru/cajeer](https://vk.ru/cajeer) |
