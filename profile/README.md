@@ -1,40 +1,77 @@
-![Cajeer](../book/assets/cajeer-cover.png)
-
 # Cajeer
 
-> **Open-source systems. Quiet by design.**
+**Открытое программное обеспечение для разработчиков, администраторов и команд.**
 
-Cajeer Team builds open-source software, developer tools, and focused infrastructure.  
-Cajeer 404 is the public edge — releases, notes, experiments, and community around the work.
+[Сайт](https://cajeer.ru/) · [GitHub](https://github.com/CajeerTeam) · [GitFlic](https://gitflic.ru/team/cajeerteam) · [Telegram](https://t.me/cajeer) · [Discord](https://discord.gg/QmJ2NDkzYv)
 
-Minimal surface. Strong standards. No branding theater.
+Cajeer — некоммерческая инициатива в сфере открытого программного обеспечения. Мы развиваем программные платформы, серверные инструменты, панели управления и инфраструктурные решения.
 
-## What defines the work
+Наша команда создаёт и поддерживает открытый исходный код, документацию, инженерные практики и технологические материалы. Наша цель — помогать разработчикам, администраторам и командам создавать, эксплуатировать и развивать собственные системы.
 
-- **Autonomy** over dependency
-- **Precision** over noise
-- **Restraint** over excess
-- **Durability** over short-lived hype
+## Направления работы
 
-## Current public direction
+| Направление | Что мы развиваем |
+| --- | --- |
+| **Программные платформы** | Основу для создания приложений, сервисов и интеграций. |
+| **Серверные инструменты** | Средства администрирования, автоматизации и сопровождения серверных систем. |
+| **Панели управления** | Интерфейсы для работы с сервисами, ресурсами и настройками. |
+| **Инфраструктурные решения** | Инструменты для развёртывания, эксплуатации и развития технической среды. |
+| **Документация и знания** | Руководства, инженерные практики и технологические материалы для работы с программным обеспечением и инфраструктурой. |
 
-- **Developer tools**
-- **Safe runtime logic**
-- **Documentation systems**
-- **Community infrastructure**
+## Репозитории
 
-## Open channels
+- [**CajeerEngine**](https://github.com/CajeerTeam/CajeerEngine)
+- [**CajeerEngineLite**](https://github.com/CajeerTeam/CajeerEngineLite)
+- [**CajeerEngineForum**](https://github.com/CajeerTeam/CajeerEngineForum)
+- [**CajeerEngineBook**](https://github.com/CajeerTeam/CajeerEngineBook)
+- [**CajeerWorkspace**](https://github.com/CajeerTeam/CajeerWorkspace)
+- [**CajeerServers**](https://github.com/CajeerTeam/CajeerServers)
+- [**CajeerLogs**](https://github.com/CajeerTeam/CajeerLogs)
+- [**CajeerBots**](https://github.com/CajeerTeam/CajeerBots)
 
-- [Website](https://cajeer.com/)
-- [Docs](https://docs.cajeer.com/)
-- [GitHub](https://github.com/CajeerTeam)
-- [Telegram](https://t.me/cajeer)
-- [Telegram Chat](https://t.me/cjrmeet)
-- [Discord](https://discord.gg/nsTKEUh2DB)
+Описание, исходный код, документацию и сведения о текущем состоянии каждого проекта ищите в его репозитории.
 
-## Structure
+## Для кого мы работаем
 
-**Cajeer Team** is the official contour: products, standards, architecture, direction.  
-**Cajeer 404** is the public edge: releases, notes, experiments, and conversation.
+- **Для разработчиков** — которым нужны открытые инструменты, доступ к исходному коду и возможность адаптировать решения под свои задачи.
+- **Для системных администраторов и инженеров** — которые развёртывают сервисы, управляют инфраструктурой и отвечают за её сопровождение.
+- **Для команд** — которым важны понятные инструменты, общая документация и возможность самостоятельно развивать используемое ПО.
 
-Built with discipline. Shipped without theater.
+## Наши принципы
+
+- **Открытость.** Доступный исходный код, обмен знаниями и возможность участвовать в развитии проектов.
+- **Практическая польза.** Внимание к задачам разработки, администрирования и повседневной эксплуатации.
+- **Сопровождаемость.** Понятная структура, ясная документация и обоснованный выбор технических решений.
+- **Качество и безопасность.** Внимательное отношение к изменениям, надёжности и защите данных.
+- **Совместное развитие.** Обратная связь пользователей и вклад участников помогают определять дальнейшую работу.
+
+## Участие в проектах
+
+Мы приглашаем разработчиков, администраторов, технических авторов и пользователей участвовать в развитии Cajeer.
+
+Помочь можно разными способами:
+
+- сообщать об ошибках и описывать шаги для их воспроизведения;
+- предлагать улучшения с объяснением задачи и ожидаемого результата;
+- исправлять ошибки и дорабатывать функциональность;
+- проверять изменения и делиться опытом эксплуатации;
+- улучшать документацию, примеры, переводы и технические материалы.
+
+Начните с репозитория интересующего проекта и его README. Вопросы об ошибках и предложения по развитию удобно обсуждать в Issues, а изменения кода и документации — предлагать через pull requests.
+
+## Лицензирование
+
+Большинство перечисленных репозиториев использует **Apache License 2.0**. Точные условия использования и распространения кода и материалов определяются лицензией соответствующего проекта.
+
+## Контакты
+
+| Ресурс | Ссылка |
+| --- | --- |
+| **Официальный сайт** | [cajeer.ru](https://cajeer.ru/) |
+| **GitHub** | [CajeerTeam](https://github.com/CajeerTeam) |
+| **GitFlic** | [CajeerTeam](https://gitflic.ru/team/cajeerteam) |
+| **Discord** | [Сообщество Cajeer](https://discord.gg/QmJ2NDkzYv) |
+| **Telegram** | [@cajeer](https://t.me/cajeer) |
+| **VK — Cajeer** | [vk.ru/cajeer](https://vk.ru/cajeer) |
+| **VK — Cajeer Team** | [vk.ru/cajeerteam](https://vk.ru/cajeerteam) |
+| **Поддержка** | [support@cajeer.ru](mailto:support@cajeer.ru) |
